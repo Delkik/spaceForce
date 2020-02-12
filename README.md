@@ -16,6 +16,7 @@ on the questions that will be asked. However, if they shoot the wrong
 planet, they lose a heart and will have to try again. 
 
 
+Team: Daniel Elkik, Avinash Seelall, Sadia Chowdhury, Jason Comisi
 
 
 
