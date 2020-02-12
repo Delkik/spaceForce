@@ -3,10 +3,8 @@
 
 How to install the program and run it?
 
-   - Open Github, navigate to the islanders' repositories  
-   - Click on  hunter-classes/winter-2020-codefest-submissions-the-islanders
-   - Clone and pull all the files from the classroom in one folder
-   - Open titleScreen.py and run it
+   - Download or clone the repository
+   - Open titleScreen.py and run the program
 
 
 What is Space Wars?
